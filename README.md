@@ -10,7 +10,7 @@
 🔭 **Projects & Contributions:**  
 - ✅ Solving **DSA problems** on LeetCode & CodeChef  
 - ✅ Building **Full-Stack Web Applications**  
-- ✅ Exploring **Cloud & DevOps Technologies**  
+- ✅ Exploring **Cloud Technologies**  
 
 📫 **Let's Connect:**  
 [LinkedIn](https://www.linkedin.com/in/sachin-pb07/)  
