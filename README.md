@@ -8,8 +8,8 @@
 - 🔹 Cloud Computing & Latest Technologies  
 
 🔭 **Projects & Contributions:**  
-- ✅ Solving **DSA problems** on LeetCode & CodeChef  
-- ✅ Building **Full-Stack Web Applications**  
+- ✅ Solving **DSA problems** on LeetCode   
+- ✅ Building **Front-end Web Applications**  
 - ✅ Exploring **Cloud Technologies**  
 
 📫 **Let's Connect:**  
